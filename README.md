@@ -1,2 +1,2 @@
 # CPP
-c++ piscine days (42 network)
+C++ piscine(42 network)
